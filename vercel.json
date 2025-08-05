@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "routes": [
+    { "src": "/api/tycsports", "dest": "/api/tycsports.mjs" },
+    { "src": "/api/foxsports", "dest": "/api/foxsports.mjs" },
+    { "src": "/api/espnpremium", "dest": "/api/espnpremium.mjs" },
+    { "src": "/api/directv", "dest": "/api/directv.mjs" },
+    { "src": "/api/tudn", "dest": "/api/tudn.mjs" },
+    { "src": "/api/tvcdeportes", "dest": "/api/tvcdeportes.mjs" },
+    { "src": "/api/tvpublica", "dest": "/api/tvpublica.mjs" }
+  ]
+}
